@@ -37,3 +37,16 @@ https://en.wikipedia.org/wiki/
 
 5) Missing Link AI - Platform to Run deep learning experiments on hundreds of machines, on and off the cloud, manage huge data sets and gain unprecedented visibility into your experiments.
 https://missinglink.ai/
+
+## <ins> Results </ins>
+1) After fine-tuning a pre-trained MobileNet model achieved about 99.03% Top-1 Accuracy on the Training set and about 73% accuracy on Valid & test data.
+2) After fine-tuning a pre-trained VGG16 model achieved about 98.03% Top-1 Accuracy on the Training set and about 70% accuracy on Valid & test data.
+3) Using KNN  Algorithm achieved at score:0.404 at K=3
+4) Using Random Forest Model achieved at score:0.2
+
+
+## <ins> Key TakeAways </ins>
+1) Through application of Various Machine Learning Algorithms - K-Nearest Neighbors, Random Forest Classification and Deep Learning(CNN) Algorithms for image classification we concluded that CNN is the best model for classification of images in our data set.
+2) In CNN pretrained models  Mobilenet model is the best in terms of both speed and accuracy in our dataset.
+3) MobileNet is the best method and quickest way to implement transfer learning for CNN’s.
+
